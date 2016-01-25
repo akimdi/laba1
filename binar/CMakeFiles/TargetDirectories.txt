@@ -1,0 +1,5 @@
+C:/lab1/binar/CMakeFiles/vldlib.dir
+C:/lab1/binar/CMakeFiles/AiPPS.dir
+C:/lab1/binar/CMakeFiles/ALL_BUILD.dir
+C:/lab1/binar/CMakeFiles/laba_1.dir
+C:/lab1/binar/CMakeFiles/ZERO_CHECK.dir
